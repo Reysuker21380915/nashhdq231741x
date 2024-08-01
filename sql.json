@@ -1,20 +1,17 @@
 [
   {
-    "gmail": "wcheat@gmail.com",
+    "HWID": "21128163142478",
     "fecha_creacion": "2024-07-31",
-    "dias_para_vencer": 30,
-    "HWID": ""
+    "dias_para_vencer": 30
   },
   {
-    "gmail": "cs1@gmail.com",
-    "fecha_creacion": "2024-07-8",
-    "dias_para_vencer": 30,
-    "HWID": ""
+    "HWID": "21128163142471",
+    "fecha_creacion": "2024-07-08",
+    "dias_para_vencer": 30
   },
   {
-    "gmail": "cs2@gmail.com",
+    "HWID": "21128163142474",
     "fecha_creacion": "2024-07-15",
-    "dias_para_vencer": 30,
-    "HWID": ""
+    "dias_para_vencer": 30
   }
 ]
