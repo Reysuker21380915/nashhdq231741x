@@ -2,11 +2,19 @@
   {
     "gmail": "wcheat@gmail.com",
     "fecha_creacion": "2024-07-31",
-    "dias_para_vencer": 30
+    "dias_para_vencer": 30,
+    "HWID": ""
   },
   {
     "gmail": "cs1@gmail.com",
-    "fecha_creacion": "2024-07-20",
-    "dias_para_vencer": 30
+    "fecha_creacion": "2024-07-8",
+    "dias_para_vencer": 30,
+    "HWID": ""
+  },
+  {
+    "gmail": "cs2@gmail.com",
+    "fecha_creacion": "2024-07-15",
+    "dias_para_vencer": 30,
+    "HWID": ""
   }
 ]
